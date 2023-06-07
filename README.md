@@ -1,4 +1,4 @@
-![ATOM Screenshot](https://upload.wikimedia.org/wikipedia/commons/5/5f/Atom_screenshot_v1.41.0.png)
+![ATOM Screenshot](https://www.elegantthemes.com/blog/wp-content/uploads/2020/02/000-Best-Atom-Packages.png)
 
 # ATOM - A Code Editor x Compiler
 
