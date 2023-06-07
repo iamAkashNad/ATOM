@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "It is the backend for the online code editor.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akash Nad",
+  "license": "ISC",
+  "dependencies": {
+    "bull": "^4.10.4",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "fs-extra": "^11.1.1",
+    "mongoose": "^7.0.4",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

@@ -1,0 +1,64 @@
+#code-editor {
+  width: 98%;
+  margin: 0.3rem auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+#playground { 
+  width: 60%;
+}
+
+#output-box { 
+  width: 39.7%;
+}
+
+#output-meta {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.alert-box  {
+  top: 10%;
+  width: 40%;
+  left: 30%;
+}
+
+.settings-dropdown {
+  border: 1px solid rgb(147, 144, 144);
+  border-radius: 6px;
+  cursor: pointer;
+  text-align: right;
+}
+
+@media (max-width: 1150px) {
+  #code-editor {
+    width: 80%;
+    flex-direction: column;
+  }
+  #playground { 
+    width: 100%; 
+  }
+  #output-box { 
+    width: 100%; 
+  }
+}
+
+@media (max-width: 950px) {
+  #code-editor {
+    width: 94%;
+  }
+  .alert-box {
+    width: 60%;
+    left: 20%;
+  }
+}
+
+@media (max-width: 750px) {
+  #code-editor {
+    width: 98%;
+  }
+  .alert-box {
+    width: 90%;
+    left: 5%
+  }
+}
