@@ -1,3 +1,5 @@
+![ATOM Screenshot](https://www.elegantthemes.com/blog/wp-content/uploads/2020/02/000-Best-Atom-Packages.png)
+
 # ATOM - A Code Editor x Compiler
 
 This project is a MERN Stack project.And it Supports C, C++, Java, JavaScript & Python.
