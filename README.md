@@ -12,7 +12,7 @@ This project is a MERN Stack project.And it Supports C, C++, Java, JavaScript & 
 - [Mongoose](https://mongoosejs.com/docs/guide.html) is used for establishing connection between node server and mongo server.
 - [Bull](https://github.com/OptimalBits/bull) is used for queue the jobs in a correct manner.
 - [uuid](https://www.npmjs.com/package/uuid) package is used for generating unique ids for giving name of the code file in backend.
-- [fs-extra](https://www.npmjs.com/package/fs-extra) package is used for deleting the code file after the execution is over.
+- [fs-extra](https://www.npmjs.com/package/fs-extra) package is used for deleting the code file after the execution is over in backend.
 
 ## Workflow
 
