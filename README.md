@@ -1,4 +1,4 @@
-![alt text](https://github.com/iamAkashNad/ATOM/blob/master/media/ATOM.png)
+![ATOM Screenshot](https://github.com/iamAkashNad/ATOM/blob/master/media/ATOM.png)
 
 # ATOM - A Code Editor x Compiler
 
