@@ -1,4 +1,4 @@
-![ATOM Screenshot](https://github.com/iamAkashNad/ATOM/blob/master/media/ATOM.png)
+![ATOM Screenshot](https://upload.wikimedia.org/wikipedia/commons/5/5f/Atom_screenshot_v1.41.0.png)
 
 # ATOM - A Code Editor x Compiler
 
