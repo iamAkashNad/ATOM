@@ -1,3 +1,5 @@
+![alt text](https://github.com/iamAkashNad/ATOM/media/ATOM.png)
+
 # ATOM - A Code Editor x Compiler
 
 This project is a MERN Stack project.And it Supports C, C++, Java, JavaScript & Python.
