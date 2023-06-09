@@ -1,4 +1,4 @@
-![ATOM Screenshot](https://drive.google.com/file/d/1K5egifwMf8DgHhZxk0K72CmPC38tcayc/view?usp=sharing)
+![ATOM Screenshot](https://www.elegantthemes.com/blog/wp-content/uploads/2020/02/000-Best-Atom-Packages.png)
 
 # ATOM - A Code Editor x Compiler
 
