@@ -1,4 +1,4 @@
-![ATOM Screenshot](https://i.imgur.com/4batMif.png)
+![ATOM Screenshot](https://i.imgur.com/MxE32Ff.png)
 
 # ATOM - A Code Editor x Compiler
 
