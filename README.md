@@ -1,4 +1,4 @@
-![ATOM Screenshot](https://drive.google.com/file/d/1K5egifwMf8DgHhZxk0K72CmPC38tcayc/view)
+![ATOM Screenshot](https://i.imgur.com/4batMif.png)
 
 # ATOM - A Code Editor x Compiler
 
